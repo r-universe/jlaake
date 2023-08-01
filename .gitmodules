@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "marked"]
-	path = marked
-	url = https://github.com/cran/marked
 [submodule "RMark"]
 	path = RMark
 	url = https://github.com/cran/RMark
+[submodule "marked"]
+	path = marked
+	url = https://github.com/cran/marked
