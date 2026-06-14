@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "RMark"]
 	path = RMark
-	url = https://github.com/cran/RMark
+	url = https://github.com/jlaake/rmark
+	subdir = RMark
 [submodule "marked"]
 	path = marked
 	url = https://github.com/cran/marked
