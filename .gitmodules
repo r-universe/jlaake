@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RMark"]
-	path = RMark
-	url = https://github.com/jlaake/rmark
-	subdir = RMark
 [submodule "marked"]
 	path = marked
 	url = https://github.com/cran/marked
